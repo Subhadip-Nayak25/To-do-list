@@ -2,7 +2,6 @@
 ## Description:
 To-do List is a Web Application to sort tasks into lists for effective time management and better productivity. 
 # Tech Stack: 
-HTML,,
 - HTML
 - CSS
 - JavaScript
